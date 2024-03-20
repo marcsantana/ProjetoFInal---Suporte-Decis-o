@@ -18,7 +18,7 @@ O dataset foi o [OkCupid Profiles](https://www.kaggle.com/datasets/andrewmvd/okc
 
 ## Passo a passo
 
-Em primeiro momento, é necessário se ter a linguagem Python instalada, bem como alguns pacotes, como pandas, matplot e numpy (a instalação já é feita de forma automática pela primeira célula do arquivo [projeto](./teste.ipynb))
+Em primeiro momento, é necessário se ter a linguagem Python instalada, bem como alguns pacotes, como pandas, matplot e numpy (a instalação já é feita de forma automática pela primeira célula do arquivo [projeto](./final.ipynb))
 
 
 
