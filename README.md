@@ -14,7 +14,7 @@ O projeto foi desenvolvido por:
 O projeto foi desenvolvido para explorar métricas de Fairness em um sistema de recomendação.
 
 ## Dataset
-O dataset foi o [OkCupid Profiles](https://www.kaggle.com/datasets/andrewmvd/okcupid-profiles?resource=download) escolhido pode ser encontrado no Kaggle e trata sobre dados da rede social de relacionamentos OkCupid. Por se tratar de dados voltados para a sociedade, é prudente avaliarmos como alguns dados demográficos são preferidos em comparação com outros, geralmente quando se fala sobre grupos minoritários.
+O dataset foi o [Laptops Info](https://www.kaggle.com/datasets/ghadahalshehrei/laptops-info?rvi=1) escolhido pode ser encontrado no Kaggle e trata sobre dados da rede social de relacionamentos OkCupid. Por se tratar de dados voltados para a sociedade, é prudente avaliarmos como alguns dados demográficos são preferidos em comparação com outros, geralmente quando se fala sobre grupos minoritários.
 
 ## Passo a passo
 
